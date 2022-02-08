@@ -1,1 +1,1 @@
-# blazeflame
+# blaze-flame
