@@ -1,4 +1,4 @@
-@import url('https://allfont.net/allfont.css?fonts=agency-fb-bold');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;300;400&display=swap');
 *{
 	margin: 0;
@@ -12,7 +12,7 @@
 	padding-top: 120px;
 }
 h1{
-	font: 150px 'Agency FB Bold', arial;
+	font: 150px 'Roboto Condensed', sans-serif;
 	text-align: center;
 	letter-spacing: 20px;
 	background: linear-gradient(#ffbb50, #fe6060);
